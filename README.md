@@ -4,9 +4,9 @@
 
 I'm a 2nd year Electrical Engineering student, wth fasination towards cp and statistical modeling
 <!-- 🔭 I’m currently working on : DSA.-->
-- 🌱 I’m currently learning **DSA.**
-- 🤔 I’m looking for help with **DSA.**
-- 💬 Ask me about **C++,DSA, Bayesian Estimation & Anroid development.**
+- 🌱 I’m currently learning ```DSA```
+- 🤔 I’m looking for help with ```DSA```
+- 💬 Ask me about ```C++```,```DSA```, ```Bayesian Estimation``` & ```Anroid development```
 <br/>
 
 
