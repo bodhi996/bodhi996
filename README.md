@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-I'm a 2nd year Electrical Engineering student, wth fasination towards cp and statistical modeling
+I'm a 2nd year Electrical Engineering student, with fasination towards cp and statistical modeling
 <!-- 🔭 I’m currently working on : DSA.-->
 - 🌱 I’m currently learning ```DSA```
 - 🤔 I’m looking for help with ```DSA```
