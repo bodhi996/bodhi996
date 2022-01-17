@@ -1,6 +1,15 @@
-# Hi there 👋
+<h1 align="center"> Hi there, I am Bodhisatwa 👋</h1>
 
-I am Bodhisatwa, a sophomore at BIT Mesra, pursuing a degree in Electrical Engineering.
+<h2 align="left">About Me</h2>
+
+I'm a 2nd year Electrical Engineering student, wth fasination towards cp and statistical modeling
+<!-- 🔭 I’m currently working on : DSA.-->
+- 🌱 I’m currently learning **DSA.**
+- 🤔 I’m looking for help with **DSA.**
+- 💬 Ask me about **C++,DSA, Bayesian Estimation & Anroid development.**
+<br/>
+
+
 
 <div align="center">
  
@@ -12,6 +21,19 @@ I am Bodhisatwa, a sophomore at BIT Mesra, pursuing a degree in Electrical Engin
 </div>
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bodhi996&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&langs_count=10&layout=compact&theme=algolia" alt="bodhi996" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>
+
+
+
+
 
 
 <!-- - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p> -->
