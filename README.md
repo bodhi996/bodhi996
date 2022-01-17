@@ -25,7 +25,7 @@ I'm a 2nd year Electrical Engineering student, wth fasination towards cp and sta
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&langs_count=10&layout=compact&theme=algolia" alt="bodhi996" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&langs_count=10&layout=compact&theme=algolia" alt="bodhi996" /><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>
 
 
 
