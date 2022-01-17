@@ -22,7 +22,7 @@ I'm a 2nd year Electrical Engineering student, with fasination towards cp and st
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bodhi996&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
-<p align="center"> <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=fmehmetun&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en" alt="fmehmetun" /> <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmehmetun&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en&layout=compact" alt="fmehmetun" />
+<p align="center"> <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=bodhi996&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en" alt="bodhi996" /> <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en&layout=compact" alt="bodhi996" />
 </p>
 
 
