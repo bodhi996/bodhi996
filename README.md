@@ -1,20 +1,27 @@
 # Hi there 👋
 
-## About Me
-I am a sophomore at BIT Mesra pursuing Electrical Engineering. 
-<br />
-[![Bodhisatwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbodhi996&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
+
+<div align="center">
+ 
+[![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp)
+[![Twitter: Bodhisatwa Bhattacharya](https://img.shields.io/twitter/follow/Bodhisatwa?style=social)](https://twitter.com/Bodhisatwa14)
+![Linkedin: Bodhisatwa Bhattacharya](https://img.shields.io/badge/-Bodhisatwa%20Bhattacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bodhisatwa-b-0aa767201/)
+
+[<img src="https://komarev.com/ghpvc/?username=bodhi996" alt="bodhi996" />](https://github.com/bodhi996)
+
+</div>
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bodhi996&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
+
+
+<!-- - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p> -->
+
 <!--
-**bodhi996/bodhi996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Saransh-cpp/Saransh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Saransh's github streak" width="450" />
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📫 How to reach me: 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
