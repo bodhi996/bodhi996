@@ -23,11 +23,7 @@ I'm a 2nd year Electrical Engineering student, with fasination towards cp and st
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bodhi996&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&langs_count=10&layout=compact&theme=algolia" alt="bodhi996" />&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>
-
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>&nbsp;<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&langs_count=10&layout=compact&theme=algolia" alt="bodhi996" />
 
 
 
