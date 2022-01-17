@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## About Me
+I am a sophomore at BIT Mesra pursuing Electrical Engineering. 
 <!--
 **bodhi996/bodhi996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
