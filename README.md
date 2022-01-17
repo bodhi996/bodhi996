@@ -6,8 +6,7 @@ I am Bodhisatwa, a sophomore at BIT Mesra, pursuing a degree in Electrical Engin
  
 [![GitHub bodhi996](https://img.shields.io/github/followers/bodhi996?label=follow&style=social)](https://github.com/bodhi996)
 [![Twitter: Bodhisatwa Bhattacharya](https://img.shields.io/twitter/follow/Bodhisatwa?style=social)](https://twitter.com/Bodhisatwa14)
-![Linkedin: Bodhisatwa Bhattacharya](https://img.shields.io/badge/-Bodhisatwa%20Bhattacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bodhisatwa-b-0aa767201/)
-
+[![Linkedin: Bodhisatwa Bhattacharya](https://img.shields.io/badge/-Bodhisatwa%20Bhattacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/bodhisatwa-b-0aa767201/)
 [<img src="https://komarev.com/ghpvc/?username=bodhi996" alt="bodhi996" />](https://github.com/bodhi996)
 
 </div>
