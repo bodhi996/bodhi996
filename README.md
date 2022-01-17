@@ -29,7 +29,7 @@ I'm a 2nd year Electrical Engineering student, wth fasination towards cp and sta
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bodhi996&theme=algolia" alt="bodhi996" /></p>
 
 
 
