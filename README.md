@@ -6,7 +6,7 @@ I'm a sophomore Electrical Engineering student at BIT Mesra, with fasination tow
 <!-- 🔭 I’m currently working on : DSA.-->
 - 🌱 I’m currently learning ```DSA``` and ```DBMS```
 - 🤔 I’m looking for help with ```DSA```
-- 💬 Ask me about ```C++```,```DSA```, ```Bayesian Estimation``` and ```Anroid development```
+- 💬 Ask me about ```C++```,```DSA```, ```Bayesian Estimation``` and ```Android development```
 <br/>
 
 
