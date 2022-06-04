@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-I'm a sophomore Electrical Engineering student at BIT Mesra, with fascination towards cp and statistical modelling
+I'm a junior Electrical Engineering student at BIT Mesra, with fascination towards cp and statistical modelling
 <!-- 🔭 I’m currently working on DSA.-->
 - 🌱 I’m currently learning ```DSA``` and ```DBMS```
 - 🤔 I’m looking for help with ```DSA```
